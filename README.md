@@ -9,9 +9,8 @@
 
 * [ES6 学习笔记（上）](https://www.jianshu.com/p/9200f5f76fc7)
 * [ES6 学习笔记（下）](https://www.jianshu.com/p/2fcecd870b4d)
-* [学习Vue中那些正则表达式](https://www.jianshu.com/p/0734cc319aa3)
-* [被人忽视的 DOM API](https://www.jianshu.com/p/c16b3333c7b6)
 * [JS 进阶必备 —— 闭包、this、箭头函数的实践笔记](https://www.jianshu.com/p/fed4c7ae2c33)
+* [常用数据集合 API 整理](https://www.jianshu.com/p/e22eeb9159a1)
 
 ### Vue.js
 
@@ -31,16 +30,28 @@
 * [Vue.js源码学习七 —— template 解析过程学习](https://www.jianshu.com/p/e1669afa30b8)
 * [Vue.js源码学习八 —— HTML解析细节学习](https://www.jianshu.com/p/4a872820ba33)
 * [Vue.js源码学习九 —— 过渡效果 transition 学习](https://www.jianshu.com/p/f283b39aa212)
+* Vue.js源码学习十 —— Directive 指令学习
 * [element源码学习一 —— 认识框架](https://www.jianshu.com/p/92d0e78c9906)
 * [element源码学习二 —— 简单组件学习](https://www.jianshu.com/p/214b82b4d6aa)
 * [element源码学习三 —— select 源码学习](https://www.jianshu.com/p/398e377dd02e)
 * [element源码学习四 —— color-picker 源码学习](https://www.jianshu.com/p/95732208260a)
 * [element源码学习五 —— Notice 系列组件学习](https://www.jianshu.com/p/aed602c92799)
 * [element源码学习六 —— Carousel 走马灯学习](https://www.jianshu.com/p/b290297d0a32)
+* element源码学习七 —— Table 表格
+* element源码学习八 —— popup 悬浮框
 
 ### weex
 
 * [weex项目弃坑小结](https://www.jianshu.com/p/b752bf9dfead)
+
+### 正则
+
+* [学习Vue中那些正则表达式](https://www.jianshu.com/p/0734cc319aa3)
+
+### DOM
+
+* [被人忽视的 DOM API](https://www.jianshu.com/p/c16b3333c7b6)
+* 虚拟 DOM 学习
 
 ### 算法
 
@@ -48,6 +59,7 @@
 * [详解动态规划——邹博讲动态规划](http://www.cnblogs.com/little-YTMM/p/5372680.html)
 * [JS家的排序算法](https://www.jianshu.com/p/1b4068ccd505)
 * [广度优先搜索BFS和深度优先搜索DFS](https://www.cnblogs.com/0kk470/p/7555033.html)
+* 贪心算法
 
 ### Node.js
 
@@ -68,6 +80,7 @@
 ### HTTP
 
 * [HTTP 协议学习笔记（扫盲文）](https://www.jianshu.com/p/e0a23035147c)
+* HTTPS 安全加密学习
 
 ### 测试
 
@@ -113,3 +126,4 @@
 ## 工作效率
 
 * [番茄工作法总结](https://blog.csdn.net/violetjack0808/article/details/51261181)
+* [谈谈程序员如何高效解决问题](https://www.jianshu.com/p/664db4213aaf)
